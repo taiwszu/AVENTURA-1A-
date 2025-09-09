@@ -8,3 +8,9 @@ body{
     height: 700px;
     margin: 0;
 }
+
+button {
+    background-color: moccasin;
+    color: azure;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
